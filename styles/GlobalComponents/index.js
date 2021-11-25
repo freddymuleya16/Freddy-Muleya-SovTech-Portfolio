@@ -303,7 +303,7 @@ export const Boxes = styled.div`
 `
 
 export const Box = styled.div`
-  background: #0d0c0c;
+  background: linear-gradient(270deg ,#13ADC7 0%,#945DD6 100%);
   border-radius: 12px;
   height: 144px;
   padding: 24px;

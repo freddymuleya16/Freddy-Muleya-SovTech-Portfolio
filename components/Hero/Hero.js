@@ -2,11 +2,13 @@ import React from 'react';
 
 import { Section, SectionText, SectionTitle } from '@styles/GlobalComponents';
 import Button from '@styles/GlobalComponents/Button';
-import { LeftSection } from './HeroStyles';
+import { HeroImg, LeftSection } from './HeroStyles';
+import ProfilePicture from './ProfilePicture.jpg';
 
 const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
+      <HeroImg src={"./ProfilePicture.jpg"}/>
       <SectionTitle main center>
         I am Freddy Muleya.
       </SectionTitle>
@@ -18,7 +20,7 @@ const Hero = (props) => (
       </SectionText>
       <Button onClick={()=>window.location="mailto:freddymuleya16@gmail.com"}>Contact me</Button>
     </LeftSection>
+    
   </Section>
 );
-
 export default Hero;

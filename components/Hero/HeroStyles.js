@@ -17,3 +17,17 @@ export const LeftSection = styled.div`
     margin: 0 auto;
   }
 `;
+
+
+export const HeroImg = styled.img`
+  margin-left: 21px;
+  -webkit-mask-image: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0));
+  width: 50rem;
+  height:50rem;
+
+  @media ${props => props.theme.breakpoints.sm} {
+    -webkit-mask-image: none;
+    margin-left: 16px;
+    overflow: visible;
+  }
+`
