@@ -19,7 +19,7 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Strengths</SectionTitle>
-    <SectionText>I am a full stack software developer</SectionText>
+    <SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem" />
@@ -55,6 +55,7 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
     </List>
+    </SectionText>
   </Section>
 );
 
