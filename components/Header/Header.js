@@ -39,8 +39,8 @@ const Header = () => (
         </Link>
       </li>
       <li>
-        <Link href="/skills">
-          <NavLink style={{ display: "flex",marginTop:"10px" }}>Skills</NavLink>
+        <Link href="/other">
+          <NavLink style={{ display: "flex",marginTop:"10px" }}>Other</NavLink>
         </Link>
       </li>
     </Div2>

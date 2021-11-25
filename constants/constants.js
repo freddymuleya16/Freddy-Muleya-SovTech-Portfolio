@@ -8,28 +8,28 @@ export const TimeLineData = [
 
 export const Certificates = [
   { number: 2017, text: 'Code 10(C1) RSA Driving License'},
-  { number: 2019, text: 'University of Limpopo SMCS Computer Lab assistant certificate' }
+  { number: 2019, text: 'SMCS Computer Lab assistant certificate' }
 ];
 export const Programming = [
-  { number: 4, text: 'C++', },
-  { number: 4, text: 'JavaScript, , , , ,, , C#, , , '},
-  { number: 4, text: 'HTML5/CSS'},
-  { number: 4, text: 'jQuery' },
-  { number: 3, text: 'PHP OOP' },
-  { number: 3, text: 'MySQL' },
-  { number: 2, text: 'JAVA' } ,
-  { number: 2, text: 'Android Kotlin' },
-  { number: 1, text: '.Net' },
-  { number: 1, text: 'SQL' },
-  { number: 1, text: 'ReactJS' }
+  { number: 4, text: 'Years C++' },
+  { number: 4, text: 'Years JavaScript'},
+  { number: 4, text: 'Years HTML5/CSS'},
+  { number: 4, text: 'Years jQuery' },
+  { number: 3, text: 'Years PHP OOP' },
+  { number: 3, text: 'Years MySQL' },
+  { number: 2, text: 'Years JAVA' } ,
+  { number: 2, text: 'Years Android Kotlin' },
+  { number: 1, text: 'Years .Net' },
+  { number: 1, text: 'Years SQL' },
+  { number: 1, text: 'Years ReactJS' }
 ];
 export const Tools = [
-  { number: 1, text: 'Microsoft Visual Studio'},
-  { number: 1, text: 'Microsoft SQL Server Management Studio' },
-  { number: 1, text: 'DevOps' },
-  { number: 2, text: 'IntelliJ IDEA IDE' },
-  { number: 3, text: 'Visual Studio Code' },
-  { number: 4, text: 'Notepad++' },
-  { number: 1, text: 'Postman' },
-  { number: 2, text: 'Android Studio' }
+  { number: 1, text: 'Years Microsoft Visual Studio'},
+  { number: 1, text: 'Years Microsoft SQL Server Management Studio' },
+  { number: 1, text: 'Years DevOps' },
+  { number: 2, text: 'Years IntelliJ IDEA IDE' },
+  { number: 3, text: 'Years Visual Studio Code' },
+  { number: 4, text: 'Years Notepad++' },
+  { number: 1, text: 'Years Postman' },
+  { number: 2, text: 'Years Android Studio' }
 ];

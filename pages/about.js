@@ -21,9 +21,11 @@ function about() {
         Ethnic Group: 		African<br/>
         Health:			    Good
       </SectionText>
-      <TimeLine/>
+      
     </LeftSection>
+    
   </Section>
+  <TimeLine/>
   </Layout>
     )
 }
